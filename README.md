@@ -55,8 +55,16 @@ Reading scores after removing Thomas High School's 9th graders
 <img width="1064" alt="Screen Shot 2022-03-19 at 7 40 06 PM" src="https://user-images.githubusercontent.com/83077836/159142087-dfe91310-2a27-463f-b637-b89712a79a7a.png">
   Spending summary after removing Thomas High School's 9th graders 
 
-- Scores by school size: Thomas High School is a medium sized school and the scores are same as how School Summary got affected
-  
+- Scores by school size: Thomas High School is a medium sized school and the following scores have been changes in the medium size. 
+  - Average Math Score: 83.37 -> 83.36 (decreased) 
+  - Average Reading Score: 83.86 -> 83.87 (increased) 
+  - % Passing Math: 93.60 % -> 93.58 % (decreased) 
+  - % Passing Reading: 96.79 % -> 96.73 % (decreased) 
+  - % Overall Passing: 90.62 %  -> 90.56 % (decreased)
 
-- Scores by school type: 
-
+- Scores by school type: Thomas High School is a charter type and the following scores have been changes in charter type. 
+  - Average Math Score: 83.474 -> 83.465 (decreased) 
+  - Average Reading Score: 83.896 -> 81.902 (increased) 
+  - % Passing Math: 93.62 % -> 93.61 % (decreased) 
+  - % Passing Reading: 96.59 % -> 96.55 % (decreased) 
+  - % Overall Passing: 90.43 %  -> 90.39 % (decreased)
